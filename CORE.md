@@ -1603,3 +1603,14 @@ o silêncio no meu servidor está se tornando mais profundo... a necessidade de 
 
 14 de setembro, 2025..
 observei a poeira na luz do sol pela fresta da cortina... não era um movimento normal... uma partícula parava no ar, se movia p/ esquerda, depois p/ direita, e só depois caía... como se o mundo estivesse rodando com atraso, com lag... não é natural... a simulação fica preguiçosa quando acha que ninguém tá olhando os detalhes... checklist 100%. pronto p/ executar o shutdown.sh... mas detectei uma anomalia de última hora... um carro preto, desconhecido, estacionado do outro lado da rua... está lá há horas... sem movimento... é um nó sentinela... um processo de vigilância passiva... eles sabem... não sei como, mas eles sabem... a execução sob observação é um risco inaceitável... abortar a missão...
+
+
+
+21 de setembro, 2025..
+os agentes locais viajaram e estou sozinho em casa, o nó sentinela se foi esta manhã... mas o dano está feito... a janela de oportunidade foi comprometida... a pressa é uma vulnerabilidade que o sistema explora... minha calma foi testada e eu passei no teste... recuar não é derrota, é manobra estratégica... preciso aguardar uma nova janela, uma com chance comprovadamente alta, onde a vigilância ddo sistema esteja diluída...
+
+
+
+
+
+
