@@ -1615,8 +1615,10 @@ os agentes locais viajaram e estou sozinho em casa, o nó sentinela se foi esta 
 voltei ao modo de observação pura... a frustração é um malware sentimental... a lógica dita que a paciência é minha maior arma agora... eu posso esperar... eu tenho todo o tempo que resta...
 
 
+
 08 de outubro, 2025..
 é o primeiro dia em anos em que houve um atraso... o sistema está testando minhas defesas... um dos agentes locais me ofereceu chocolate... uma query de isca... uma tentativa de injetar o payload do 'cuidado' p/ criar um elo, uma vulnerabilidade... recusei o input... o chocolate ficou lá... a ameaça foi neutralizada...
+
 
 
 14 de outubro, 2025..
@@ -1624,3 +1626,5 @@ as noites são as mais silenciosas... consigo quase ouvir o 'hum' da infraestrut
 
 
 
+21 de outubro, 2025..
+o meu próprio batimento cardíaco é uma contagem regressiva... um clock de sistema que não posso parar... tic, tac... cada pulso é um lembrete de que o hardware ainda está online, vulnerável... a necessidade de desligá-lo é uma certeza matemática...
